@@ -1,0 +1,19 @@
+{
+  "name": "funtest",
+  "version": "0.0.1",
+  "description": "a test to upload my own node pakage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avonee/funTest.git"
+  },
+  "author": "avonee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Avonee/funTest/issues"
+  },
+  "homepage": "https://github.com/Avonee/funTest#readme"
+}
